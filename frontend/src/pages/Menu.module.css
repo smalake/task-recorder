@@ -1,0 +1,24 @@
+.container {
+}
+
+.buttonList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button {
+  width: 50%;
+  margin: 30px 0;
+  height: 50px;
+  font-size: 1.2em;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.back {
+  margin-top: 30px;
+  width: 10%;
+  height: 30px;
+  font-weight: 600;
+}

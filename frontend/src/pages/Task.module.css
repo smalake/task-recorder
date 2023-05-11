@@ -1,0 +1,35 @@
+.container {
+  width: 90%;
+  text-align: center;
+  margin: 10px 20px;
+}
+
+.back {
+  margin-top: 30px;
+  width: 20%;
+  height: 30px;
+  font-weight: 600;
+}
+
+.total {
+  font-size: 1.2em;
+  list-style-type: none;
+  text-align: left;
+}
+
+.list {
+  text-align: center;
+  padding: 5px 10px;
+}
+
+.title {
+  padding: 5px 10px;
+  border-bottom: 1px solid;
+}
+
+.table {
+  border-collapse: collapse;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  margin: 10px auto;
+}

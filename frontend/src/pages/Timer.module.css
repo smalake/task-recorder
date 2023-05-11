@@ -1,0 +1,14 @@
+.taskName {
+  margin-bottom: 20px;
+}
+.startTime {
+  font-size: 1.2em;
+  margin-bottom: 40px;
+}
+
+.button {
+  width: 150px;
+  height: 40px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
